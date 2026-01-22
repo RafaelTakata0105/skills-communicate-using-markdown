@@ -2,3 +2,9 @@
 ###### and this is a H6 header
 
 ![Private investocat](https://octodex.github.com/images/privateinvestocat.jpg)
+
+## Code example
+
+```python
+print("Hello World!")
+```
