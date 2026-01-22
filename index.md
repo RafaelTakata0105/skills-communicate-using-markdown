@@ -8,3 +8,7 @@
 ```python
 print("Hello World!")
 ```
+
+- [ ] Turn on GitHub
+- [ ] Outline my portfolio
+- [ ] Introduce myself
